@@ -8,5 +8,16 @@ public class Main {
      //grp'ornol'olwrnklrn'lkrnnwrt'lnr'hr'lnhhmqe'lqeqet'lqegmqe;rkl
         System.out.println("hi");
         System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
     }
 }
